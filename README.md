@@ -1,11 +1,11 @@
-# new-project
+# claude-taskmaster-init
 
 Claude Code + TaskMaster用のプロジェクト初期化スクリプト
 
 ## インストール
 
 ```bash
-curl -o ~/bin/new-project https://raw.githubusercontent.com/mister-x-is-your-father/new-project/main/new-project
+curl -o ~/bin/new-project https://raw.githubusercontent.com/mister-X-is-your-father/claude-taskmaster-init/master/new-project
 chmod +x ~/bin/new-project
 ```
 
